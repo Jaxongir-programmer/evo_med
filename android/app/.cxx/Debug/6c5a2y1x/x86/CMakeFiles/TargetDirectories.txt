@@ -1,0 +1,2 @@
+D:/BDM/projects/evo_med/android/app/.cxx/Debug/6c5a2y1x/x86/CMakeFiles/edit_cache.dir
+D:/BDM/projects/evo_med/android/app/.cxx/Debug/6c5a2y1x/x86/CMakeFiles/rebuild_cache.dir
